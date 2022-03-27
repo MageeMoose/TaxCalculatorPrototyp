@@ -1,0 +1,17 @@
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\net6.0-windows\TaxCalculator.exe
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\net6.0-windows\TaxCalculator.deps.json
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\net6.0-windows\TaxCalculator.runtimeconfig.json
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\net6.0-windows\TaxCalculator.dll
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\net6.0-windows\TaxCalculator.pdb
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.csproj.AssemblyReference.cache
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.TaxCalculatorForm.resources
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.csproj.GenerateResource.cache
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.AssemblyInfoInputs.cache
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.AssemblyInfo.cs
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.dll
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\refint\TaxCalculator.dll
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.pdb
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\TaxCalculator.genruntimeconfig.cache
+D:\Dev\CSharp\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\net6.0-windows\ref\TaxCalculator.dll
