@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "AwpdCFDNNqyEzwawZZt9TfvvCieL79RtlvxGlQipp/tumlHZ1/cmFRhI8K55ndHMNksgSBFpb4I9ukYTrCAE0g==",
+  "dgSpecHash": "0LytCXUBBsi/qT+o6Y1yXdi5iwfpOX+ppQ276LLPXAhV0/1+7F1S11qSFk6SMeyUAWUazZy2/4Yh/o/4OSf0HQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\CSharp\\TaxCalculator\\TaxCalculator\\TaxCalculator\\TaxCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dev\\CSharp\\TaxCalculator\\TaxCalculator\\TaxCalculator\\TaxCalculatorPrototyp\\TaxCalculator\\TaxCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magnu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\magnu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

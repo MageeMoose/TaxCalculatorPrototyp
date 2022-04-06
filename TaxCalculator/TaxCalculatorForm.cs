@@ -46,7 +46,7 @@ namespace TaxCalculator
             };
         }
 
-        private TaxRate FindTaxRate(double grossSalary, TaxRate[] taxTiers)
+        private TaxRate FindTaxRate(decimal grossSalary, TaxRate[] taxTiers)
         {
             foreach(var tier in taxTiers.OrderByDescending(x => x.Band))
             {
@@ -60,16 +60,16 @@ namespace TaxCalculator
 
     public class Salary
     {
-        public double Gross { get; set; }
+        public decimal Gross { get; set; }
         public TaxRate TaxRate { get; set; }
-        public double TaxAmount => Gross * TaxRate.Rate;
-        public double Net => Gross - TaxAmount;
+        public decimal TaxAmount => Gross * TaxRate.Rate;
+        public decimal Net => Gross - TaxAmount;
     }
 
     public class TaxRate
     {
-        public double Band { get; set; }
-        public double Rate { get; set; }
+        public decimal Band { get; set; }
+        public decimal Rate { get; set; }
 
         public string RateText => $"{Rate * 100:N0} %";
 
